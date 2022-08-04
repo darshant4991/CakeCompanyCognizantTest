@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FoHG913l8A2iDeLGowgC9Ry3Gsi6YdlitnT4kgOn/9YIzIh8n7wHVQ+F4d+rGJ2BpzKNaXHH4CeocFwNn8vITQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darshan\\Downloads\\Projects\\CakeCompany\\CakeCompany\\CakeCompany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darshan\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "C:\\Users\\Darshan\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
